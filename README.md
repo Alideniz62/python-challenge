@@ -1,5 +1,5 @@
 # python-challenge
-Python scripting for
+Python scripting for;
 
 ## PyBank
 
